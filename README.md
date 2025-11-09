@@ -1,15 +1,5 @@
 <h1 align="left">👋 Hello!</h1>
 
-###
-
-<p align="left">💻 I’m Roman, a 19-year-old frontend developer passionate about modern web technologies.</p>
-
-###
-
-<p align="left">🚀 I’m constantly growing and diving deeper into the world of digital solutions.</p>
-
-###
-
 <h3 align="left">🛠 Tech Stack:</h3>
 
 ###
